@@ -1,3 +1,2 @@
-# Hello, i'm Floated
-# I make unity mods in C#
-# I hope you enjoy this silly little GorillaTag mod mennu :)
+# **GUIDE:**
+# Extract the .Zip file and put the .dll into your plugins directory.
